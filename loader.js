@@ -1,1 +1,3 @@
-const port = 3003
+require('./config/server')
+require('./config/database')
+
